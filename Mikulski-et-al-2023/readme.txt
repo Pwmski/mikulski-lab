@@ -7,5 +7,7 @@ Pipeline for Cut&Run-seq analyses in Mikulski et al. 2023:
     5. Conversion Bam -> Bigwig + Normalization (CPM): Deeptools bamCoverage scaling, counting and normalizing [currently CPM normalization, with read extension]
     6. Read counting: Deeptools multiBigwigSummary on bigwigfiles [with a given reference genomic region BED files]
 
+Done in local conda environments in WSL2 or on WIMM cluster via SLURM.
+
 Pawel Mikulski, PhD
 
