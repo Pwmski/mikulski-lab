@@ -1,4 +1,4 @@
-Pipeline for Cut&Run analysis in Mikulski et al. 2023:
+Pipeline for Cut&Run analyses in Mikulski et al. 2023:
 
     Data collection (Basespace CLI) and concatenation of fastq files from separate Illumina HiSeq sequencing lanes into one
     Quality control: FASTQC analysis
